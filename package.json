@@ -1,6 +1,9 @@
 {
   "name": "CommunityAllyWebApp",
   "version": "2.0.1",
+  "scripts": {
+    "watch": "grunt watch"
+  },
   "devDependencies": {
     "grunt": "^0.4.5",
     "grunt-angular-templates": "^1.1.0",
